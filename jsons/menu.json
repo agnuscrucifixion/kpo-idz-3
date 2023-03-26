@@ -1,0 +1,104 @@
+[
+  {
+    "dish_id": 0,
+    "dish_name": "Coke",
+    "dish_cost": 50,
+    "prep_time": 1
+  },
+  {
+    "dish_id": 1,
+    "dish_name": "Black tea",
+    "dish_cost": 35,
+    "prep_time": 5
+  },
+  {
+    "dish_id": 2,
+    "dish_name": "Green tea",
+    "dish_cost": 30,
+    "prep_time": 8
+  },
+  {
+    "dish_id": 3,
+    "dish_name": "Special drink",
+    "dish_cost": 40,
+    "prep_time": 3
+  },
+  {
+    "dish_id": 4,
+    "dish_name": "Salad",
+    "dish_cost": 70,
+    "prep_time": 15
+  },
+  {
+    "dish_id": 5,
+    "dish_name": "Chicken",
+    "dish_cost": 120,
+    "prep_time": 25
+  },
+  {
+    "dish_id": 6,
+    "dish_name": "Turkey",
+    "dish_cost": 150,
+    "prep_time": 25
+  },
+  {
+    "dish_id": 7,
+    "dish_name": "Pork",
+    "dish_cost": 90,
+    "prep_time": 25
+  },
+  {
+    "dish_id": 8,
+    "dish_name": "Mutton",
+    "dish_cost": 130,
+    "prep_time": 40
+  },
+  {
+    "dish_id": 9,
+    "dish_name": "Special meal",
+    "dish_cost": 70,
+    "prep_time": 15
+  },
+  {
+    "dish_id": 10,
+    "dish_name": "Pizza 1",
+    "dish_cost": 150,
+    "prep_time": 30
+  },
+  {
+    "dish_id": 11,
+    "dish_name": "Pizza 2",
+    "dish_cost": 150,
+    "prep_time": 30
+  },
+  {
+    "dish_id": 12,
+    "dish_name": "Pizza 3",
+    "dish_cost": 150,
+    "prep_time": 30
+  },
+  {
+    "dish_id": 13,
+    "dish_name": "Ice-cream 1",
+    "dish_cost": 70,
+    "prep_time": 5
+  },
+  {
+    "dish_id": 14,
+    "dish_name": "Ice-cream 2",
+    "dish_cost": 70,
+    "prep_time": 5
+  },
+  {
+    "dish_id": 15,
+    "dish_name": "Ice-cream 3",
+    "dish_cost": 70,
+    "prep_time": 5
+  },
+  {
+    "dish_id": 16,
+    "dish_name": "Water",
+    "dish_cost": 30,
+    "prep_time": 1
+  }
+]

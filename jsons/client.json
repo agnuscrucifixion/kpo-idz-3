@@ -1,0 +1,56 @@
+[
+  {
+    "name": "John",
+    "money": 300,
+    "order": [
+      0,
+      3,
+      10,
+      15
+    ]
+  },
+  {
+    "name": "Bill",
+    "money": 5000,
+    "order": [
+      10,
+      5,
+      13
+    ]
+  },
+  {
+    "name": "Ivan",
+    "money": 2000,
+    "order": [
+      1,
+      3,
+      8,
+      11,
+      13
+    ]
+  },
+  {
+    "name": "Aleksey",
+    "money": 1450,
+    "order": [
+      0,
+      6,
+      11
+    ]
+  },
+  {
+    "name": "VIP",
+    "money": 200,
+    "order": [
+      12
+    ]
+  },
+  {
+    "name": "Secret",
+    "money": 600,
+    "order": [
+      0,
+      5
+    ]
+  }
+]
